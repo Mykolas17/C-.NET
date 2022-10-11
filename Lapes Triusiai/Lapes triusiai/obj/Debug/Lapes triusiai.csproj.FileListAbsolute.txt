@@ -1,0 +1,11 @@
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\bin\Debug\Lapes triusiai.exe.config
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\bin\Debug\Lapes triusiai.exe
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\bin\Debug\Lapes triusiai.pdb
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes_triusiai.Form1.resources
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes_triusiai.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.exe
+C:\Users\ThinkPad\source\repos\Lapes triusiai\Lapes triusiai\obj\Debug\Lapes triusiai.pdb
